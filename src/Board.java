@@ -92,7 +92,7 @@ public class Board {
                 }
             }
         }
-
+        targetsAcquired = 0;
         int pointsEarned = 0;
         for (int y = 0; y < numRows; y++){
             for (int x = 0; x < numCols; x++){
