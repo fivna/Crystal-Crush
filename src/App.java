@@ -10,9 +10,9 @@ public class App {
             new Level(2, 30, 35, "o"),
             new Level(3, 25, 35, "r"),
             new Level(4, 20, 28, "pi"),
-            new Level(5, 30, 60, "p"),
-            new Level(6, 18, 36, "r"),
-            new Level(7, 15, 26, "o"),
+            new Level(5, 30, 45, "p"),
+            new Level(6, 18, 35, "r"),
+            new Level(7, 15, 28, "o"),
             new Level(8, 1) // infinite game mode
         };
 
