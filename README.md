@@ -1,1 +1,1 @@
-WALKTHROUGH: https://youtu.be/SES7G5DT4as
+Playthrough: https://youtu.be/SES7G5DT4as
